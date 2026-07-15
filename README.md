@@ -38,7 +38,7 @@ Relational multi-table dashboard analyzing 100K+ orders from the Olist dataset, 
 
 ### Current Learning Roadmap
 
-ROS 2 Humble ecosystem &nbsp;·&nbsp; SLAM &amp; Navigation2 &nbsp;·&nbsp; MoveIt 2 &nbsp;·&nbsp; PLC Programming &nbsp;·&nbsp; PCB Design &nbsp;·&nbsp; Advanced SQL &amp; Data Analytics
+ROS 2 Humble ecosystem &nbsp;·&nbsp; SLAM &amp; Navigation2 &nbsp;·&nbsp; PLC Programming &nbsp;·&nbsp; PCB Design &nbsp;·&nbsp; Advanced SQL &amp; Data Analytics &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; Tableau
 
 ### Connect
 
