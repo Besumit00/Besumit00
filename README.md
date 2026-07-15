@@ -42,4 +42,4 @@ ROS 2 Humble ecosystem &nbsp;·&nbsp; SLAM &amp; Navigation2 &nbsp;·&nbsp; Move
 
 ### Connect
 
-[GitHub](https://github.com/Besumit00) · [LinkedIn](https://linkedin.com/in/sumit-sahuab3334348) · sumit.0sahu2003@gmail.com
+[GitHub](https://github.com/Besumit00) · [LinkedIn](https://www.linkedin.com/in/sumit-sahu-10003040a) · sumit.0sahu2003@gmail.com
