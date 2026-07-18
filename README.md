@@ -12,8 +12,8 @@ I'm an Artificial Intelligence & Robotics undergraduate at MITS Gwalior who enjo
 
 ### Featured Projects
 
-**[6-DOF Robotic Arm](https://github.com/Besumit00/6-Dof-Robotic-arm)** — Fusion 360
-My first CAD project. A complete 6-DOF robotic arm designed from scratch — parametric modeling, full assembly, motion-ready revolute joints. Current end effector is a rigid placeholder; an actuated gripper is planned next.
+**[5-DOF Robotic Arm](https://github.com/Besumit00/6-Dof-Robotic-arm)** — Fusion 360
+My first CAD project. A complete 5-DOF robotic arm (base, shoulder, elbow, wrist pitch, wrist roll) designed from scratch — parametric modeling, full assembly, motion-ready revolute joints. Current end effector is a rigid placeholder, so it isn't counted as a DOF; an actuated gripper is planned next. [Demo video](https://www.youtube.com/watch?v=XADxn0iLTfg)
 
 **[IoT Industrial Motor Health Monitoring System](https://github.com/Besumit00/IoT-Industrial-Motor-Health-Monitoring-System)** — ESP32 · ThingSpeak · Wokwi
 Predictive maintenance system fusing temperature, 3-axis vibration, and RPM data into a debounced 3-tier fault classifier (Normal/Warning/Critical) — requires 3 consecutive out-of-range readings before alerting, to filter sensor noise. Cloud telemetry to ThingSpeak every 15s with WiFi retry handling. Validated in Wokwi before hardware build.
